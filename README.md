@@ -1,4 +1,4 @@
-# 💫 About Me :
+# 💫 About Me:
 🔭 I’m currently working on a reservation app for a restaurant <br>👯 I’m looking to collaborate in a good work team  <br>🌱 I am currently expanding my knowledge by learning React Native, although I already have a strong proficiency in ASP and Python.<br>💬 Ask me about development in ASP and Python<br>⚡ Fun fact: I didn't have a computer until I was 18, but I still loved programming.
 
 ## 🌐 Socials:
